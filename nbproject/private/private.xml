@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/helper/CursusHelper.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>21</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/ImprimerFicheSignaletique.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/ReserverMateriel.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/AddNote.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/AddEtudiant.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/ListCours.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/AddMateriel.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/AddEnseignant.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/AddCursus.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/AddExamen.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/AddCoursEnseignant.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/AcceuiEnseignant.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/util/PdfUtil.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/Acceuil.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/AddUnite.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/dao/ConnectDB.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/AddEnseignant21.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/AddCours.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/view/ListMesCours.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/dao/EnseignantDao.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/dao/UniteEnseignantDao.java</file>
+            <file>file:/C:/Users/lenovo/Desktop/projet%20final/umlProject/src/dao/EtudiantDao.java</file>
+        </group>
+    </open-files>
+</project-private>
